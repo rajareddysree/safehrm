@@ -1,0 +1,1 @@
+SafeHRM is an Open Source Human Resource Management Solution Wrtten in PHP, mysql with web 2.0 technology that covers Company Information, Employee, Leave, Time & Attendance, Benefits, and Recruitment Management with Easy Exportable Reporting System.
